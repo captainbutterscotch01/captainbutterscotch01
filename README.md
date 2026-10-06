@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Abhinav!</h1>
 
 <p align="center">
-  nonsense coder.
+  <i>nonsense coder.</i>
 </p>
 
 <p align="center">
-  <img src="./bead-pattern.png" width="700">
+  <img src="./bead-pattern.png" width="450">
 </p>
