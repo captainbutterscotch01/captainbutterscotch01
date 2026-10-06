@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./abhinav-banner.png" width="100%">
+  <img src="./abhinav-pixel.png" width="450">
 </p>
 
 <p align="center">
-  <i>nonsense coder.</i>
+  <code>nonsense coder.</code>
 </p>
 
 <p align="center">
