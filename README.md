@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./abhinav-pixel.png" width="450">
-</p>
+<h1 align="center">
+  ＡＢＨＩＮＡＶ
+</h1>
 
 <p align="center">
   <code>nonsense coder.</code>
