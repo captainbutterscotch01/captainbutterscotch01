@@ -1,9 +1,11 @@
-<h1 align="center">Hey, I'm Abhinav!</h1>
+<h1 align="center">
+  ░▒▓█  A B H I N A V  █▓▒░
+</h1>
 
 <p align="center">
-  <i>nonsense coder.</i>
+  <code>nonsense coder.</code>
 </p>
 
 <p align="center">
-  <img src="./bead-pattern.png" width="450">
+  <img src="./bead-pattern.png" width="300">
 </p>
