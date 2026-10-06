@@ -1,9 +1,9 @@
-<h1 align="center">
-  ＡＢＨＩＮＡＶ
-</h1>
+<p align="center">
+  <img src="./abhinav-banner.png" width="100%">
+</p>
 
 <p align="center">
-  <code>nonsense coder.</code>
+  <i>nonsense coder.</i>
 </p>
 
 <p align="center">
