@@ -1,5 +1,5 @@
 <h1 align="center">
-  ░▒▓█  A B H I N A V  █▓▒░
+  ＡＢＨＩＮＡＶ
 </h1>
 
 <p align="center">
